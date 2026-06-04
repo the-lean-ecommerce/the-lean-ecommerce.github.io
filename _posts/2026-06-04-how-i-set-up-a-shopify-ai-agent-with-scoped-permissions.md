@@ -2,7 +2,7 @@
 layout: post
 title: "How I Set Up a Shopify AI Agent With Scoped Permissions"
 description: "A practical Clawly workflow for Shopify merchants who want AI help with reports, support, and product ops without handing over the whole store."
-date: 2026-06-04 14:35:07 +0000
+date: 2026-06-04 14:38:24 +0000
 categories: [ecommerce]
 tags: [shopify, ai, automation, agents, ecommerce]
 canonical_url: ""
@@ -28,11 +28,11 @@ For me, the best first jobs are:
 - a support draft assistant that prepares replies but does not send them
 - a product cleanup assistant that drafts titles, tags, or descriptions for review
 
-That is the same reason [How to Build a Shopify AI Agent for Daily Store Operations](https://the-lean-ecommerce.github.io/2026/06/03/how-to-build-a-shopify-ai-agent-for-daily-store-operations/) works as a model. The win is not “full autonomy.” The win is making one store routine boring and repeatable.
+That is the same reason [How to Build a Shopify AI Agent for Daily Store Operations](https://how-to.the-lean-ecommerce.com/2026/06/03/how-to-build-a-shopify-ai-agent-for-daily-store-operations/) works as a model. The win is not “full autonomy.” The win is making one store routine boring and repeatable.
 
 ## Set Permissions Before You Add Integrations
 
-Before I connect anything, I decide what the agent can read, what it can suggest, and what it can actually execute. Clawly's guardrail-first positioning matters here. I want least privilege by default: read-only access for reporting, draft-only behavior for marketing, and explicit approval for anything that can change prices, discounts, or store settings.
+Before I connect anything, I decide what the agent can read, what it can suggest, and what it can actually execute. Clawly’s guardrail-first positioning matters here. I want least privilege by default: read-only access for reporting, draft-only behavior for marketing, and explicit approval for anything that can change prices, discounts, or store settings.
 
 The generated permission dashboard below is the mental model I want every Shopify AI agent to have. If an action would be annoying to reverse, it should not be an uncapped action.
 
@@ -56,7 +56,7 @@ My favorite pattern is suggest, review, execute. The agent can summarize, draft,
 
 ![Clawly recurring automations and store alerts](/assets/img/posts/2026-06-04-how-i-set-up-a-shopify-ai-agent-with-scoped-permissions/image-04-cdc2b47bcc25.png)
 
-This is the point where recurring automations start to matter. A daily report is fine once. A daily report that lands every morning without me rebuilding the workflow is where the time savings show up. That is also why Clawly's automation angle matters: it is not just a chat surface, it is a repeatable store system.
+This is the point where recurring automations start to matter. A daily report is fine once. A daily report that lands every morning without me rebuilding the workflow is where the time savings show up. That is also why Clawly’s automation angle matters: it is not just a chat surface, it is a repeatable store system.
 
 If the work is marketing rather than ops, I would use the same review loop. [How I Built a Shopify UGC Ad Testing Matrix](https://the-lean-ecommerce.github.io/2026/05/26/how-i-built-a-shopify-ugc-ad-testing-matrix/) is a good example of that mindset applied to creative testing: generate a structured set of variations, inspect the result, and only then scale what works.
 
