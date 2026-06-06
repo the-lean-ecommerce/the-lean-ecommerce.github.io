@@ -41,7 +41,7 @@ Some products need a person to make sense. Apparel, accessories, jewelry, and si
 
 ![AI try-on and ad-ready asset workflow on a laptop in a studio setup](/assets/img/posts/2026-06-06-how-i-turn-plain-product-photos-into-studio-shots-try-ons-and-ads/image-03-f43e425ea433.png)
 
-This is the part where Supra AI Photo Studio gets useful for more than catalog work. You can create model-based visuals without hiring a new shoot every time you want a different look. If that sounds familiar, [How to Build a No-Shoot Product Photo Workflow for Shopify](https://the-lean-ecommerce.blogspot.com/2026/06/how-to-build-no-shoot-product-photo.html) covers the same operational idea from another angle, and [How to Build a No-Shoot Shopify Photo Workflow That Still Looks Premium](https://how-to-blog.gitlab.io/2026/06/05/how-to-build-a-no-shoot-shopify-photo-workflow-that-still-looks-premiu/index.html) is the version I’d send to someone who cares a lot about the final aesthetic.
+This is the part where Supra AI Photo Studio gets useful for more than catalog work. You can create model-based visuals without hiring a new shoot every time you want a different look. If that sounds familiar, [How I Turned Plain Shopify Product Photos Into a Full Launch Kit](https://dev.to/ybouane/how-i-turned-plain-shopify-product-photos-into-a-full-launch-kit-1eji) shows the broader asset set, and [How to Build a No-Shoot Shopify Photo Workflow That Still Looks Premium](https://how-to-blog.gitlab.io/2026/06/05/how-to-build-a-no-shoot-shopify-photo-workflow-that-still-looks-premiu/index.html) is the version I’d send to someone who cares a lot about the final aesthetic.
 
 My rule here is simple: if the product needs a body, give it a believable body. If it doesn’t, don’t force one. The best output is the one that makes the product easier to evaluate, not the one that looks the most dramatic.
 
@@ -67,7 +67,7 @@ If I were turning this into a repeatable process for a store, I’d keep it smal
 
 That’s enough to get a useful set of assets without turning the workflow into a science project. It also keeps the review step where it matters. I’m happy to automate the repetitive edits, but I still want a human to decide whether the product reads correctly and whether the scene matches the brand.
 
-If you want more context on the way I think about that review step, [How to Turn One Product Photo Into Studio-Ready Shopify Assets](https://the-lean-ecommerce.gitlab.io/2026/05/28/how-to-turn-one-product-photo-into-studio-ready-shopify-assets/) is still the best companion piece, and [How to Build a No-Shoot Shopify Photo Workflow That Still Looks Premium](https://how-to-blog.gitlab.io/2026/06/05/how-to-build-a-no-shoot-shopify-photo-workflow-that-still-looks-premiu/index.html) shows how I keep the final look from drifting into generic AI output.
+If you want more context on the way I think about that review step, [How to Turn One Product Photo Into Studio-Ready Shopify Assets](https://the-lean-ecommerce.gitlab.io/2026/05/28/how-to-turn-one-product-photo-into-studio-ready-shopify-assets/) is still the best companion piece, and [How I Built a Draft-First Shopify Blog System for Ecommerce SEO](https://the-lean-ecommerce.github.io/2026/06/03/how-i-built-a-draft-first-shopify-blog-system-for-ecommerce-seo/) shows how I keep the final look from drifting into generic AI output.
 
 ## Bottom Line
 
