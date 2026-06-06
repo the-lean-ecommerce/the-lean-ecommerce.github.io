@@ -2,7 +2,7 @@
 layout: post
 title: "How I Turn Plain Product Photos Into Studio Shots, Try-Ons, and Ads"
 description: "A practical Shopify workflow for turning one product photo into lifestyle scenes, model try-ons, and ad-ready visuals with Supra AI Photo Studio."
-date: 2026-06-06 12:00:00 +0000
+date: 2026-06-06 05:00:00 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai, ecommerce, marketing]
 canonical_url: ""
