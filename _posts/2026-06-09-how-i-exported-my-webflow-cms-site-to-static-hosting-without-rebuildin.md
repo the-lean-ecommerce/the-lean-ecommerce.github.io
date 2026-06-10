@@ -119,11 +119,11 @@ If you are moving a bigger site, I would test one page section at a time, then a
 
 ## Related notes
 
-If you want the free-export angle first, I wrote about [How to Export a Webflow Site for Free](https://the-lean-ecommerce.blogspot.com/2026/05/how-to-export-a-webflow-site-for-free.html) earlier.
+If you want the export checklist angle first, I wrote about [Webflow CMS to HTML: A Practical Export and Self-Hosting Checklist](https://the-lean-ecommerce.gitlab.io/2026/05/19/webflow-cms-to-html-a-practical-export-and-self-hosting-checklist/) earlier.
 
 If you want the self-hosting version of the same pattern, [How to Export a Webflow CMS Site for Self-Hosting with ExFlow](https://the-lean-ecommerce.blogspot.com/2026/05/how-to-export-webflow-cms-site-for-self.html) is the closest sibling post.
 
-If GitHub Pages is your target deployment, [How to Replace Webflow Hosting With GitHub Pages Using ExFlow](https://the-lean-ecommerce.github.io/2026/06/01/how-to-replace-webflow-hosting-with-github-pages-using-exflow/) shows the deployment side more directly.
+If you want the no-dynamic-content version, [How to Export a Webflow CMS Site Without Losing Dynamic Content](https://the-lean-ecommerce.github.io/2026/05/23/how-to-export-a-webflow-cms-site-without-losing-dynamic-content/) is the more focused walkthrough.
 
 And if you want the narrowest possible version of this workflow, [How to Export a Webflow CMS Site to GitHub Pages Without Rebuilding It](https://the-lean-ecommerce.github.io/2026/06/03/how-to-export-a-webflow-cms-site-to-github-pages-without-rebuilding-it/) is the one to compare against.
 
