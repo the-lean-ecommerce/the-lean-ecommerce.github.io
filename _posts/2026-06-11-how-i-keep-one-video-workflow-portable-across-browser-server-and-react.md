@@ -2,7 +2,7 @@
 layout: post
 title: "How I Keep One Video Workflow Portable Across Browser, Server, and React"
 description: "A practical VideoFlow workflow for keeping one JSON source of truth across browser export, server rendering, and a React editor."
-date: 2026-06-11 12:00:00 +0000
+date: 2026-06-11 06:00:00 +0000
 categories: [ecommerce]
 tags: [videoflow, video-json, react, browser-rendering, server-rendering, typescript]
 canonical_url: ""
