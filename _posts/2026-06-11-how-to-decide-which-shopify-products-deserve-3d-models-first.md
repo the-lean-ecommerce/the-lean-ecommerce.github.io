@@ -2,7 +2,7 @@
 layout: post
 title: "How to Decide Which Shopify Products Deserve 3D Models First"
 description: "A practical way to prioritize 3D capture for products where shape, scale, or texture changes buying confidence."
-date: 2026-06-11 06:43:08 +0000
+date: 2026-06-11 06:50:27 +0000
 categories: [ecommerce]
 tags: [shopify, 3d-models, product-media, ecommerce, product-photography]
 canonical_url: ""
@@ -20,7 +20,7 @@ If a product is easy to understand from two flat photos, 3D is optional. If cust
 - Skip flat, low-value, or highly repetitive variants until the process is working.
 - Publish the model where Shopify can actually show it: product media or a theme app block.
 
-Shopify’s docs are straightforward here: [product media can include images, 3D models, and videos](https://help.shopify.com/en/manual/products/product-media), and your theme needs to support that media if you want it rendered on the storefront. If your theme is not set up for media support yet, the [support-media guide](https://shopify.dev/docs/storefronts/themes/product-merchandising/media/support-media) is the practical place to start.
+Shopify’s docs are straightforward here: [product media can include images, 3D models, and videos](https://shopify.dev/docs/storefronts/themes/product-merchandising/media), and your theme needs to support that media if you want it rendered on the storefront. If your theme is not set up for media support yet, the [support-media guide](https://shopify.dev/docs/storefronts/themes/product-merchandising/media/support-media) is the practical place to start.
 
 ## The products I would scan first
 
