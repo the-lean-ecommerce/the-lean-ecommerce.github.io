@@ -2,7 +2,7 @@
 layout: post
 title: "How I Replaced Manual Etsy Uploads With a Live Catalog Feed"
 description: "A practical Etsy catalog feed setup that keeps Instagram, Facebook, and Google Shopping synced without CSV exports."
-date: 2026-06-21 12:00:00 +0000
+date: 2026-06-21 00:00:00 +0000
 categories: [ecommerce]
 tags: [etsy, instagram, facebook, google-shopping, catalog, automation]
 canonical_url: ""
