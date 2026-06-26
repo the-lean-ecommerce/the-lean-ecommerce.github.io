@@ -2,7 +2,7 @@
 layout: post
 title: "How I Build a Shopify Product Photo Triage Workflow That Actually Ships"
 description: "A practical Supra AI Photo Studio workflow for deciding when a Shopify product photo needs cleanup, placement, try-on, or video before you over-edit it."
-date: 2026-06-26 14:36:14 +0000
+date: 2026-06-26 14:43:17 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai, ecommerce, supra-ai-photo-studio]
 canonical_url: ""
@@ -47,7 +47,7 @@ I use video when a still image still leaves uncertainty. If motion, texture, or 
 
 ![Split view comparing product placement and AI model try-on for Shopify](/assets/img/posts/2026-06-26-how-i-build-a-shopify-product-photo-triage-workflow-that-actually-ship/image-03-b6f6d96ac9f5.png)
 
-That triage path is the more operational version of [How I Choose Between AI Enhancement, Try-Ons, and Lifestyle Scenes for Shopify Photos](https://productivity-tech-business.sktch.io/home/how-i-choose-between-ai-enhancement-try-ons-and-lifestyle-scenes-for-shopify-photos-OBm7+daKgfyDnfN0xcwoww/) and [How I Decide Which Shopify Products Need Try-On, Placement, or Video](https://how-to.the-lean-ecommerce.com/2026/06/22/how-to-decide-which-shopify-products-need-try-on-placement-or-video/). Those posts answer the feature question. This one answers the workflow question.
+That triage path is the more operational version of [How I Choose Between AI Enhancement, Try-Ons, and Lifestyle Scenes for Shopify Photos](https://productivity-tech-business.sktch.io/home/how-i-choose-between-ai-enhancement-try-ons-and-lifestyle-scenes-for-shopify-photos-OBm7+daKgfyDnfN0xcwoww) and [How I Decide Which Shopify Products Need Try-On, Placement, or Video](https://how-to.the-lean-ecommerce.com/2026/06/22/how-to-decide-which-shopify-products-need-try-on-placement-or-video/). Those posts answer the feature question. This one answers the workflow question.
 
 ## Why the editor surface matters
 
