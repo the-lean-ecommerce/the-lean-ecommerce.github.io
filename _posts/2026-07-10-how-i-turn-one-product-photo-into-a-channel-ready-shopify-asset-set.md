@@ -49,7 +49,7 @@ For apparel, jewelry, and accessories, I usually start with try-on. It gives me 
 
 For product pages that need more than a still image, I like the UGC and b-roll options. They are useful when the listing needs movement, a more social feel, or a second asset set for ads and email. I’m not trying to replace every photo shoot with video. I’m trying to make the still images and the motion assets look like they came from the same brand system.
 
-If you want the logic behind splitting static images and motion assets, [How I Reuse One Shopify Product Video Across Ads, Product Pages, and Email](https://the-lean-ecommerce.github.io/2026/07/04/how-i-reuse-one-shopify-product-video-across-ads-product-pages-and-email/) is the adjacent version of the same problem.
+If you want the logic behind splitting static images and motion assets, [How to Create Five Shopify UGC Video Ads From One Brief](https://how-to.the-lean-ecommerce.com/2026/06/29/how-to-create-five-shopify-ugc-video-ads-from-one-brief/) is the adjacent version of the same problem.
 
 The other tools are more basic, but they matter:
 - background removal for plain shots that need a cleaner start
