@@ -2,7 +2,7 @@
 layout: post
 title: "How I Turn Product Data Into Automated Video Demos With VideoFlow"
 description: "A practical workflow for turning product data into repeatable video demos with VideoFlow, JSON-first templates, and reusable renderers."
-date: 2026-07-10 07:38:52 +0000
+date: 2026-07-10 07:46:56 +0000
 categories: [ecommerce]
 tags: [video, typescript, react, automation, opensource]
 canonical_url: ""
@@ -17,7 +17,7 @@ That changed the workflow in a useful way. The template becomes reviewable, diff
 
 
 
-If you want the broader architecture behind that approach, I would pair this post with [How to Preview, Edit, and Export the Same Video JSON Everywhere](https://how-to.the-lean-ecommerce.com/2026/07/01/how-to-preview-edit-and-export-the-same-video-json-everywhere/) and [How to Build a VideoFlow Project That Keeps Templates and Renderers Separate](https://how-to.the-lean-ecommerce.com/2026/07/08/how-to-build-a-videoflow-project-that-keeps-templates-and-renderers-se/).
+If you want the broader architecture behind that approach, I would pair this post with [How to Preview, Edit, and Export the Same Video JSON Everywhere](https://how-to-blog.gitlab.io/2026/07/01/how-to-preview-edit-and-export-the-same-video-json-everywhere/) and [How to Build a VideoFlow Project That Keeps Templates and Renderers Separate](https://how-to.the-lean-ecommerce.com/2026/07/08/how-to-build-a-videoflow-project-that-keeps-templates-and-renderers-se/).
 
 
 
