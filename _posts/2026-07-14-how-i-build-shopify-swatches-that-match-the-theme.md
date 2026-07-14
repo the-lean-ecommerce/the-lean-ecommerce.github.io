@@ -2,7 +2,7 @@
 layout: post
 title: "How I Build Shopify Swatches That Match the Theme"
 description: "A practical rollout for Shopify swatches that match the theme, stay fast, and work across product and collection pages without rebuilding the storefront."
-date: 2026-07-14 12:00:00 +0000
+date: 2026-07-14 11:40:00 +0000
 categories: [ecommerce]
 tags: [shopify, swatches, product-pages, collections, merchandising, ecommerce, supra-swatch-colors]
 canonical_url: ""
