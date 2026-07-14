@@ -47,7 +47,7 @@ What I usually tune first:
 
 The app can auto-detect store colors or use product images to set swatches quickly, which helps a lot once a catalog has enough SKUs that hand-building chips would become a maintenance job.
 
-If you want the configuration-oriented follow-up, [How I Choose Between Variant Swatches and Linked Products in Shopify](https://the-lean-ecommerce.github.io/2026/06/23/how-i-choose-between-variant-swatches-and-linked-products-in-shopify/) covers the decision side, and [How to Roll Out Shopify Swatches Without Touching Theme Code](https://the-lean-ecommerce.github.io/2026/07/10/how-to-roll-out-shopify-swatches-without-touching-theme-code/) shows the no-code rollout pattern I would use on a live store.
+If you want the configuration-oriented follow-up, [How I Choose Between Variant Swatches and Linked Products in Shopify](https://the-lean-ecommerce.github.io/2026/06/23/how-i-choose-between-variant-swatches-and-linked-products-in-shopify/) covers the decision side, and [How to Roll Out Shopify Swatches Without Touching Theme Code](https://how-to.the-lean-ecommerce.com/2026/07/10/how-to-roll-out-shopify-swatches-without-touching-theme-code/) shows the no-code rollout pattern I would use on a live store.
 
 ## Put Swatches Where People Browse
 
