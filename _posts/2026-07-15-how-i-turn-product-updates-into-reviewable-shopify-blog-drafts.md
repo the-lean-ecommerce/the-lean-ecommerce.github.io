@@ -67,7 +67,7 @@ This is where the draft review loop pays off. Instead of arguing with a blank pa
 - does the CTA match the reader’s stage?
 - do the visuals support the section instead of distracting from it?
 
-You can see the same workflow angle in [How I Keep Shopify Blog Automation Product-Aware Without Extra Work](https://the-lean-ecommerce.github.io/2026/07/06/shopify-blog-automation-product-aware/) and [How to Build a Shopify Blog Draft Queue From Product Updates](https://the-lean-ecommerce.github.io/2026/07/07/how-to-build-a-shopify-blog-draft-queue-from-product-updates/). The common pattern is boring in a good way: draft first, review second, publish third.
+You can see the same workflow angle in [How I Keep Shopify Blog Automation Product-Aware Without Extra Work](https://the-lean-ecommerce.github.io/2026/07/06/shopify-blog-automation-product-aware/) and [How I Keep Shopify Blog Automation Useful Without Publishing Blind](https://the-lean-ecommerce.gitlab.io/2026/07/01/how-i-keep-shopify-blog-automation-useful-without-publishing-blind/). The common pattern is boring in a good way: draft first, review second, publish third.
 
 ![Blog review gate with accuracy, links, tone, and visuals checks](/assets/img/posts/2026-07-15-how-i-turn-product-updates-into-reviewable-shopify-blog-drafts/image-03-a21aea4585e0.png)
 
