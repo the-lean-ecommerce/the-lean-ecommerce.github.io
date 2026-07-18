@@ -61,7 +61,7 @@ Here is the try-on side of that workflow in the app listing:
 
 ![Realistic model try-on example](/assets/img/posts/2026-07-18-one-product-photo-try-on-lifestyle-ad-assets/image-04-710f344fee93.png)
 
-That is the point where [How I Decide Whether a Shopify Product Photo Needs Try-On, Placement, or Video](https://the-lean-ecommerce.github.io/2026/07/11/how-i-decide-whether-a-shopify-product-photo-needs-try-on-placement-or-video/) becomes relevant. If you choose the wrong transformation first, you can still recover, but you will spend longer getting to a version that feels publishable.
+That is the point where [How I Decide Whether a Shopify Product Photo Needs Try-On, Placement, or Video](https://the-lean-ecommerce.github.io/2026/07/11/how-i-decide-whether-a-shopify-product-photo-needs-try-on-placement-or/) becomes relevant. If you choose the wrong transformation first, you can still recover, but you will spend longer getting to a version that feels publishable.
 
 ## Build The Visual Set In Layers
 
@@ -111,7 +111,7 @@ My quick check is simple:
 
 If I can answer yes to those questions, I am usually happy to ship.
 
-That is also why I keep coming back to [How I Turn Basic Shopify Product Photos Into Better Assets](https://the-lean-ecommerce.github.io/2026/07/13/how-i-turn-basic-shopify-product-photos-into-better-assets/) and [How I Build a Shopify Product Photo Workflow Without a New Shoot](https://the-lean-ecommerce.github.io/2026/07/08/how-to-build-a-shopify-product-photo-workflow-without-a-new-shoot/). The point is not to make one perfect image. The point is to make a set that actually moves through the store.
+That is also why I keep coming back to [How I Turn Basic Shopify Product Photos Into Better Assets](https://the-lean-ecommerce.gitlab.io/2026/07/13/how-i-turn-basic-shopify-product-photos-into-better-assets/) and [How I Build a Shopify Product Photo Workflow Without a New Shoot](https://the-lean-ecommerce.github.io/2026/07/08/how-to-build-a-shopify-product-photo-workflow-without-a-new-shoot/). The point is not to make one perfect image. The point is to make a set that actually moves through the store.
 
 ## The Bottom Line
 
