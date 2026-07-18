@@ -2,7 +2,7 @@
 layout: post
 title: "How I Turn One Product Photo Into Try-On, Lifestyle, And Ad Assets"
 description: "A practical workflow for turning one Shopify product photo into try-on, lifestyle, and ad-ready assets with Supra AI Photo Studio."
-date: 2026-07-18 23:34:29 +0000
+date: 2026-07-18 23:34:37 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai, ecommerce, marketing]
 canonical_url: ""
