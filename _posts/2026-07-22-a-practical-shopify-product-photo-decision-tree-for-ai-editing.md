@@ -2,7 +2,7 @@
 layout: post
 title: "A Practical Shopify Product Photo Decision Tree for AI Editing"
 description: "A practical decision tree for turning Shopify photos into try-ons, lifestyle scenes, and ad-ready video without a reshoot."
-date: 2026-07-22 12:00:00 +0000
+date: 2026-07-22 03:30:00 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai, ecommerce, visual-content]
 canonical_url: ""
