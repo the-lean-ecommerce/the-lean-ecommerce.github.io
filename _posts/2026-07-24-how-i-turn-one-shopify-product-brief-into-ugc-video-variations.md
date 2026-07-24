@@ -2,7 +2,7 @@
 layout: post
 title: "How I Turn One Shopify Product Brief Into UGC Video Variations"
 description: "A practical workflow for turning one Shopify product brief into reusable UGC video variations for ads, product pages, and email."
-date: 2026-07-24 12:00:00 +0000
+date: 2026-07-24 00:00:00 +0000
 categories: [ecommerce]
 tags: [shopify, ugc, video-marketing, ai, ecommerce]
 canonical_url: ""
