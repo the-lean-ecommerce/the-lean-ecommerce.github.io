@@ -2,7 +2,7 @@
 layout: post
 title: "What Makes a Shopify Product Worth Scanning in 3D"
 description: "A practical checklist for choosing the right Shopify SKUs, capturing them on a phone, and publishing native 3D media without overengineering the workflow."
-date: 2026-07-28 19:35:53 +0000
+date: 2026-07-28 19:43:22 +0000
 categories: [ecommerce]
 tags: [shopify, 3d-models, photogrammetry, product-media, ecommerce]
 canonical_url: ""
@@ -15,7 +15,7 @@ What I actually want is a product where shape, scale, or surface finish changes 
 
 If you want to test the workflow without committing to a bigger rollout, the [Shopify App Store listing](https://apps.shopify.com/supra-3d-capture) is the simplest starting point. And if you want the broader context, the product blog lives at [supra-3d-capture.sktch.io/blog](https://supra-3d-capture.sktch.io/blog).
 
-Shopify’s own docs are useful here too. The platform supports product media like images, videos, and 3D models, and the theme app extension docs explain how app blocks fit into a product page without editing theme code. That matters because the hard part is usually not “can Shopify show the model?” It is “which product deserves the extra work?”
+Shopify’s own docs are useful here too. The platform supports product media like images, videos, and 3D models in [product media docs](https://shopify.dev/docs/storefronts/themes/product-merchandising/media), and the [theme app extension docs](https://shopify.dev/docs/apps/build/online-store/theme-app-extensions) explain how app blocks fit into a product page without editing theme code. That matters because the hard part is usually not “can Shopify show the model?” It is “which product deserves the extra work?”
 
 ## The products I scan first
 
@@ -39,11 +39,11 @@ The capture step is deliberately boring. That is the point.
 
 I open the guided phone workflow, orbit the product, and keep the distance and lighting consistent. The product file for Supra 3D Capture says the app guides you through 10+ photos, and that is about the right mental model: not a cinematic shoot, just a clean orbit with enough coverage to reconstruct the object well.
 
-If I want a more formal preflight, I use the same checklist logic I wrote about in [How to Build a Shopify 3D Capture Shot List That Actually Works](https://the-lean-ecommerce.github.io/2026/07/21/how-to-build-a-shopify-3d-capture-shot-list-that-actually-works/). The main thing I am trying to avoid is variability: moving shadows, shiny backgrounds, or a camera path that drifts so much the reconstruction has to guess.
+If I want a more formal preflight, I use the same checklist logic I wrote about in [How to Build a Shopify 3D Capture Shot List That Actually Works](https://how-to.the-lean-ecommerce.com/2026/07/21/how-to-build-a-shopify-3d-capture-shot-list-that-actually-works/). The main thing I am trying to avoid is variability: moving shadows, shiny backgrounds, or a camera path that drifts so much the reconstruction has to guess.
 
 ![Phone-guided capture orbit around a physical product](/assets/img/posts/2026-07-28-what-makes-a-shopify-product-worth-scanning-in-3d/image-02-58a593f2ee52.png)
 
-When the capture feels fussy, I slow down rather than improvising. The right move is usually to fix the set, not to brute-force the app. That is especially true if you are using the product as the first example in a broader queue. I wrote about that prioritization logic in [How to Build a Shopify 3D Capture Queue Around Return Risk](https://the-lean-ecommerce.github.io/2026/07/20/how-to-build-a-shopify-3d-capture-queue-around-return-risk/), and it still holds up: spend the effort where uncertainty is highest.
+When the capture feels fussy, I slow down rather than improvising. The right move is usually to fix the set, not to brute-force the app. That is especially true if you are using the product as the first example in a broader queue. I wrote about that prioritization logic in [How to Build a Shopify 3D Capture Queue Around Return Risk](https://how-to.the-lean-ecommerce.com/2026/07/20/how-to-build-a-shopify-3d-capture-queue-around-return-risk/), and it still holds up: spend the effort where uncertainty is highest.
 
 ## How I publish it into Shopify
 
