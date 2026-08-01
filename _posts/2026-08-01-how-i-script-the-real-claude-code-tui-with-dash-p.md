@@ -83,7 +83,7 @@ That is also why I think of dash-p as a pragmatic bridge, not a universal replac
 
 ## Related Posts
 
-I have been exploring this setup from a few other angles too: [How to Automate the Claude Code TUI With dash-p](https://productivity-tech-business.blogspot.com/2026/06/how-to-automate-claude-code-tui-with.html), [How I Script Claude Code Locally With dash-p](https://the-lean-ecommerce.blogspot.com/2026/06/how-i-script-claude-code-locally-with.html), [How to Turn Claude Code Into a Local Shell Pipeline](https://the-lean-ecommerce.blogspot.com/2026/06/how-to-turn-claude-code-into-local.html), and [How to Build a Local Query Layer for Claude Code With dash-p](https://how-to.the-lean-ecommerce.com/2026/07/31/how-to-build-a-local-query-layer-for-claude-code-with-dash-p/). Together they map the same idea from scripting, shell usage, and structured querying.
+I have been exploring this setup from a few other angles too: [How to Automate the Claude Code TUI With dash-p](https://productivity-tech-business.blogspot.com/2026/06/how-to-automate-claude-code-tui-with.html), [How I Script Claude Code Locally With dash-p](https://the-lean-ecommerce.blogspot.com/2026/06/how-i-script-claude-code-locally-with.html), [How to Turn Claude Code Into a Local Shell Pipeline](https://the-lean-ecommerce.blogspot.com/2026/06/how-to-turn-claude-code-into-local.html), and [How to Automate Claude Code Without Switching to the Agent SDK](https://productivity-tech-business.blogspot.com/2026/06/how-to-automate-claude-code-without.html). Together they map the same idea from scripting, shell usage, and structured querying.
 
 ## The Practical Next Step
 
@@ -91,4 +91,4 @@ If you already have Claude Code installed, try a small task first. Run dash-p ag
 
 That is the right test. If it works, you can keep building around Bash or TypeScript. If it does not, you have learned that you actually need a different abstraction instead of guessing.
 
-Start with the [dash-p repository](https://github.com/ybouane/dash-p) or install the [npm package](https://www.npmjs.com/package/@ybouane/dash-p) and wrap one tiny task before you commit to a bigger automation design.
+Start with the [dash-p repository](https://github.com/ybouane/dash-p) or install the package locally and wrap one tiny task before you commit to a bigger automation design.
