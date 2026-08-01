@@ -2,7 +2,7 @@
 layout: post
 title: "How I Script the Real Claude Code TUI With dash-p"
 description: "dash-p keeps Claude Code scriptable from the terminal, so I can automate local workflows without moving to a separate headless path."
-date: 2026-08-01 12:00:00 +0000
+date: 2026-08-01 06:00:00 +0000
 categories: [ecommerce]
 tags: [claude, automation, typescript, terminal, cli]
 canonical_url: ""
