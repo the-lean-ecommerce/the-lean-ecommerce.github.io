@@ -20,7 +20,7 @@ I reach for this app when I want one clean search, one careful selection, and on
 - How to verify the result before you widen the scope.
 - When a manual edit is still faster than a bulk pass.
 
-![Bulk Listing Editor dashboard](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-01-placeholder.png)
+![Bulk Listing Editor dashboard](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-01-37c6b490d458.jpeg)
 
 ## 1. Start with the scope question, not the tool
 
@@ -30,7 +30,7 @@ Use Listings mode when the change belongs to the listing as a whole. That covers
 
 That distinction sounds small, but it is the difference between a batch that stays coherent and a batch that silently turns into cleanup work.
 
-![Listings versus variations decision tree](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-01-bf069fd27472.png)
+![Listings versus variations decision tree](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-02-bf069fd27472.png)
 
 Expected result: you know which level owns the edit before you select a single row.
 
@@ -42,7 +42,7 @@ The reason is practical. Listing-level changes are easy to explain and easy to v
 
 A good mental test is this: if the change would look wrong on just one item in the batch, the batch is too broad. Split it first.
 
-![Etsy batch selection screen](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-02-509b3c120e50.png)
+![Etsy batch selection screen](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-03-509b3c120e50.png)
 
 Expected result: the selected rows all share the same intent, so the bulk edit stays predictable.
 
@@ -60,7 +60,7 @@ I would use it for cases like:
 
 If the product family does not share the same option structure, do not force it into one batch. A mixed batch is usually a sign that you are trying to solve two different problems with one edit.
 
-![Before and after Etsy listing cleanup](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-03-19e5eacfcdce.png)
+![Before and after Etsy listing cleanup](/assets/img/posts/2026-08-03-how-to-tell-whether-an-etsy-edit-belongs-in-listings-or-variations/image-04-19e5eacfcdce.png)
 
 Expected result: the option structure changes cleanly instead of carrying unrelated edits along with it.
 
