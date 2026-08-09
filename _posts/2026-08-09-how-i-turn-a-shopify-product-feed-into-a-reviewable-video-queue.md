@@ -26,8 +26,8 @@ For each eligible Shopify product, my job prepares an object like this:
   "title": "Insulated Travel Mug",
   "price": "$28",
   "features": ["Leak-resistant lid", "12-hour cold retention"],
-  "image": "https://cdn.example.com/mug.jpg",
-  "productUrl": "https://store.example/products/travel-mug"
+  "image": "<product image URL>",
+  "productUrl": "<product page URL>"
 }
 ```
 
