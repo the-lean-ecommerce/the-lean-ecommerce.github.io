@@ -2,7 +2,7 @@
 layout: post
 title: "How I Pick the First Shopify SKU for a 3D Pilot"
 description: "A practical way to choose one Shopify SKU, capture it with a phone, and validate native 3D media before scaling."
-date: 2026-08-23 05:31:12 +0000
+date: 2026-08-23 05:31:44 +0000
 categories: [ecommerce]
 tags: [shopify, 3d, ecommerce, product-pages]
 canonical_url: ""
