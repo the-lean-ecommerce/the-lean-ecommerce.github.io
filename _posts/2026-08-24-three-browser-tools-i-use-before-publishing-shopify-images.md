@@ -2,7 +2,7 @@
 layout: post
 title: "Three Browser Tools I Use Before Publishing Shopify Images"
 description: "A practical, privacy-first Shopify image handoff: strip metadata, remove white backgrounds, and convert PNG product assets to WebP locally."
-date: 2026-08-24 01:31:25 +0000
+date: 2026-08-24 01:32:30 +0000
 categories: [ecommerce]
 tags: [shopify, product-images, ecommerce, web-performance, privacy]
 canonical_url: ""
@@ -38,7 +38,7 @@ Next, I decide whether the image needs to work on multiple backgrounds: collecti
 
 My starting values are conservative. The tool suggests a tolerance around 5–15 for clean white-on-white photography, then higher for cream or off-white scenes; I only increase it until the background goes away without chewing into the product. For a soft edge, I add a small amount of feathering and check the result on both white and dark gray.
 
-That final check is important. A cutout can look perfect on the transparency checkerboard and awful once a dark campaign module reveals a pale halo. If it fails there, I do not keep nudging the control forever. I flag the source image as requiring a proper retouch or choose an image that was shot for cutout use. That is the same kind of release gate I use in [my Shopify product-photo QA pass](https://the-lean-ecommerce.github.io/2026/08/21/my-three-pass-check-before-publishing-ai-product-photos/): one clear failure is cheaper than fixing every downstream placement.
+That final check is important. A cutout can look perfect on the transparency checkerboard and awful once a dark campaign module reveals a pale halo. If it fails there, I do not keep nudging the control forever. I flag the source image as requiring a proper retouch or choose an image that was shot for cutout use. That is the same kind of release gate I use in [my Shopify product-photo QA pass](https://the-lean-ecommerce.github.io/2026/08/14/how-i-build-a-publish-safe-shopify-photo-decision-system/): one clear failure is cheaper than fixing every downstream placement.
 
 ## 3. Convert the version that will actually ship
 
