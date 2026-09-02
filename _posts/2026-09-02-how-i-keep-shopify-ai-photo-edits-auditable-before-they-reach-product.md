@@ -2,7 +2,7 @@
 layout: post
 title: "How I Keep Shopify AI Photo Edits Auditable Before They Reach Product Pages"
 description: "A practical versioning and review workflow for Shopify merchants using AI to improve product photos without losing product accuracy."
-date: 2026-09-02 09:31:25 +0000
+date: 2026-09-02 09:32:39 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai-workflows, ecommerce-operations]
 canonical_url: ""
@@ -40,7 +40,7 @@ A minimal JSON entry looks like this:
 {
   "product": "camp-lantern",
   "variant": "forest-green",
-  "source_media_id": "gid://shopify/MediaImage/123",
+  "source_media_id": "media-image-123",
   "allowed_changes": ["background", "lighting", "crop"],
   "destination": "product-page-secondary",
   "status": "needs-review"
