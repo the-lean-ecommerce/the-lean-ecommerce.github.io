@@ -54,7 +54,7 @@ Once the fields exist, the setup is pleasantly unglamorous:
 4. Check the live preview and any overlap warning.
 5. Add the theme app block once to the product template.
 
-That last step is why I prefer an app block over a one-off Liquid fork. A collection rule keeps covering new matching products, and the underlying content remains Shopify-native. For a more literal walkthrough of the information hierarchy, see [how to organize Shopify product information with tabs and accordions](https://how-to-blog.gitlab.io/2026/09/21/how-to-organize-shopify-product-information-with-tabs-accordions/).
+That last step is why I prefer an app block over a one-off Liquid fork. A collection rule keeps covering new matching products, and the underlying content remains Shopify-native. I keep variant selection as a separate concern; [this Shopify color-swatches guide](https://how-to-blog.gitlab.io/2026/09/19/how-to-set-up-shopify-color-swatches-on-product-and-collection-pages/) is the companion read when a product family needs clearer color navigation, too.
 
 ![Responsive tabs and accordions on desktop and mobile](/assets/img/posts/2026-09-22-how-i-structured-shopify-product-specs-without-editing-every-descripti/image-02-d320f6404fbe.webp)
 
@@ -78,7 +78,7 @@ I test one fully populated product, one sparse product, and one awkward outlier.
 
 ![Reusable information module applied across a product catalog](/assets/img/posts/2026-09-22-how-i-structured-shopify-product-specs-without-editing-every-descripti/image-03-bee38e8ac9e5.webp)
 
-I also open the product editor afterward. If updating a material or care note still requires touching HTML in a description, the data model is not finished. Shopify’s [product details documentation](https://help.shopify.com/en/manual/products/details/product-details-page) confirms that metafields are editable on the product details page, which is exactly where the operating team should be able to maintain them.
+I also open the product editor afterward. If updating a material or care note still requires touching HTML in a description, the data model is not finished. Product metafields should be editable where the operating team already maintains the product, which is exactly where I want this work to live.
 
 ## The Next Move
 
