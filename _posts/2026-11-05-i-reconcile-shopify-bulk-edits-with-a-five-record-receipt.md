@@ -75,7 +75,7 @@ Admin accuracy is necessary, not sufficient. I open the one storefront record in
 - For SEO fields, inspect the rendered page source or a search preview later rather than assuming the admin field guarantees a result.
 - For image or collection work, verify the order and visibility a shopper will actually see.
 
-This protects against a common blind spot: the API/admin object can be correct while a theme, app block, cache, or collection rule produces a different storefront result. The same buyer-facing check is why I treat a [three-product size-chart sample](/2026/11/04/a-three-product-sample-that-catches-shopify-size-chart-mistakes/) as more than data QA.
+This protects against a common blind spot: the API/admin object can be correct while a theme, app block, cache, or collection rule produces a different storefront result. I treat every buyer-facing check as more than data QA: it is proof that the catalog rule survives the route to the storefront.
 
 ## When this is enough—and when it is not
 
