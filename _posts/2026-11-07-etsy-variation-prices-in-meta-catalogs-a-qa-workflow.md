@@ -2,14 +2,12 @@
 layout: post
 title: "Etsy Variation Prices in Meta Catalogs: A QA Workflow"
 description: "Check Etsy variation prices, stock, links, and personalization rules before refreshing a Meta catalog feed."
-date: 2026-11-07 19:36:45 +0000
+date: 2026-11-07 19:42:16 +0000
 categories: [ecommerce]
 tags: [etsy, meta-catalog, product-feed, ecommerce-operations]
 canonical_url: ""
 image: "/assets/img/posts/2026-11-07-etsy-variation-prices-in-meta-catalogs-a-qa-workflow/cover-7830f8673fde.webp"
 ---
-
-# Etsy Variation Prices in Meta Catalogs: A QA Workflow
 
 When an Etsy listing has size, color, or material options, I do not treat its catalog row as a single product record. I make sure each sellable variation carries the price, availability, destination, and image a shopper would actually expect before I refresh a Meta catalog. [Catalog Generator for Etsy](https://catalog-generator.webyze.com/) is useful here because it reads Etsy listings and can expand priced variations into individual feed rows—but it cannot decide whether the source listing tells the truth.
 
