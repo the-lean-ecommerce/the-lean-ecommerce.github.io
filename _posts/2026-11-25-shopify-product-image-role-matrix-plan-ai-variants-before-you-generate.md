@@ -2,7 +2,7 @@
 layout: post
 title: "Shopify Product Image Role Matrix: Plan AI Variants Before You Generate"
 description: "Plan Shopify AI image variants by assigning each product photo a clear role, then review the set for product truth before publishing."
-date: 2026-11-25 18:27:58 +0000
+date: 2026-11-25 18:28:40 +0000
 categories: [ecommerce]
 tags: [shopify, product-photography, ai-images, ecommerce]
 canonical_url: ""
